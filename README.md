@@ -2,6 +2,7 @@
 
 <!--
 **serkansonmez06/serkansonmez06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 [![HitCount](http://hits.dwyl.com/serkansonmez06/serkansonmez06.svg)](http://hits.dwyl.com/serkansonmez06/serkansonmez06)
 
 About me
