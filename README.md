@@ -1,7 +1,5 @@
 ![Software Engineer](https://github.com/serkansonmez06/serkansonmez06/blob/main/Add%20a%20heading%20(1).png)
-
 [![HitCount](http://hits.dwyl.com/serkansonmez06/serkansonmez06.svg)](http://hits.dwyl.com/serkansonmez06/serkansonmez06)
-
 About me
 
 - 🔭 looking for front-end developer position...
