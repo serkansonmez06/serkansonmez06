@@ -13,3 +13,4 @@ About me
 - 💁🏾‍LinkedIn : https://www.linkedin.com/in/serkan-sonmez-mba/
 - 😄 Pronouns: He/Him/His
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serkansonmez06)](https://github.com/serkansonmez06/github-readme-stats)
