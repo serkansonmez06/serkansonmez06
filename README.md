@@ -1,4 +1,4 @@
-![Software Engineer](https://github.com/serkansonmez06/serkansonmez06/blob/main/Add%20a%20heading%20(1).png)
+![Software Engineer](https://github.com/serkansonmez06/serkansonmez06/commit/5077d387bd833edcc4dff404c303626ec544502f)
 
 About me
 - 🔭 looking for front-end developer position...
