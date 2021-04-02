@@ -1,4 +1,4 @@
-![Software Engineer](https://github.com/serkansonmez06/serkansonmez06/commit/5077d387bd833edcc4dff404c303626ec544502f)
+![Software Engineer](https://user-images.githubusercontent.com/73310717/113441386-36f39580-93bc-11eb-9f2a-44d9fdca7d4e.png)
 
 About me
 - 🔭 looking for front-end developer position...
