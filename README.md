@@ -11,5 +11,4 @@ About me
 
 [![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=serkansonmez06)](https://github.com/serkansonmez06/github-readme-stats)
 
-[![HitCount](http://hits.dwyl.com/serkansonmez06/serkansonmez06.svg)](http://hits.dwyl.com/serkansonmez06/serkansonmez06)
 
